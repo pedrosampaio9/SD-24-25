@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "..\\Servidor\\Servidor\\Servidor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Agredador\\Agredador\\Agregador.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\Wavy\\Wavy\\Wavy.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
